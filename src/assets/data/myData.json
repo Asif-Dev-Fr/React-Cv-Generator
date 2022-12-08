@@ -1,0 +1,86 @@
+{
+  "name": "Asif KASSAM ALI",
+  "jobPosition_EN": "Developer Fullstack",
+  "jobPosition_FR": "Développeur Fullstack",
+  "jobPosition_JP": "フルスタック 開発者",
+  "githubLink": "https://github.com/Asif-Dev-Fr",
+  "githubName": "@Asif-Dev-Fr",
+  "linkedInLink": "https://www.linkedin.com/in/asif-kassam-ali/",
+  "linkedInName": "@asif-kassam-ali",
+  "email": "asif.k.dev@gmail.com",
+  "portfolioLink": "https://asif-portfolio.herokuapp.com/",
+  "address": "95100 Argenteuil - France",
+  "licence": "Driving licence (B)",
+  "english": "TOEIC 930/990",
+  "japanese": "JTLP N3",
+  "workExperience": [
+    {
+      "positionName_EN": "Front-end developer",
+      "positionName_FR": "Développeur Front-end",
+      "positionName_JP": "フロントエンド開発者",
+      "companyName": "Prioritis",
+      "startDate": "04/2022",
+      "endDate": "",
+      "location": "Paris (France)",
+      "description_EN": "【Project Overview】<br /> Migrating code from Vue.js to React.js <br /><br /> 【Responsibilities / Role】<br /> As a front-end developer do all the migration from the platform to React independently. <br /><br /> 【Achievements】<br /> <div class='descriptionList'> ● Implementation of the Tooltip of Redux in order to manage the states  <br /> ● Implementation of the global search function (by drug, by therapeutic area, by regulator, by country, by clinical trials) <br /> ● Display of search results in charts using Echarts with the ability to filter and in a table (pagination, ability to show/hide columns) <br /> ● Display of results by agency (Fda, Ema, Transparency, Spain, Italy, Gba, Nice, Hira, Pmda, etc.) or by pricing (when the information exists) <br /> ● Implementation of the detail page (possible download of this page in PDF format thanks to the html2pdf package, addition of modification of the page if admin, redirection to clinical trials, possibility of hiding / displaying sections) <br /> ● Implementation of the search function for the FR part <br /> ● Implementation of the price page template <br /> ● Implementation of templates for agencies (Fda, Ema, Transparency, Spain, Italy, Gba, Nice, Hira, Pmda…) <br /> ● Implementation of the Feedback modal <br /> ● Implementation of the profile page (display of user information with the possibility of modifying it, possibility of creating email alerts for a drug / a therapeutic area / an agency) <br /> ● Implementation of I18n </div>",
+      "description_FR": "【Aperçu du projet】 <br /> Migration du code depuis Vue.js vers React.js  <br /><br /> 【Responsabilités / Rôle】 <br /> Intervenir en tant que développeur front-end et faire toute la migration de la plateforme vers React en autonomie.  <br /><br /> 【Réalisations】 <br />  <div class='descriptionList'> ● Implémentation du Tooltip de Redux afin de gérer les états  <br /> ● Implémentation de la fonction de recherche globale (par médicament, par aire thérapeutique, par régulateur, par pays, par essaies cliniques)  <br /> ● Affichage des résultats de la recherche dans des graphiques en utilisant Echarts avec la possibilité de filtrer et dans un tableau (pagination, possibilité d’afficher / de cacher des colonnes)  <br /> ● Affichage des résultats par agence (Fda, Ema, Transparence, Espagne, Italie, Gba,Nice, Hira, Pmda…) ou par tarification (lorsque l’information existe)  <br /> ● Implémentation de la page détail (téléchargement possible cette page en format PDF grâce au package html2pdf, ajout modification de la page si admin, redirection vers les essaies cliniques, possibilité de cacher / afficher des sections)  <br /> ● Implémentation de la fonction recherche pour la partie FR  <br /> ● Implémentation du template de la page prix  <br /> ● Implémentation des templates pour changes agences (Fda, Ema, Transparence, Espagne, Italie, Gba, Nice, Hira, Pmda…)  <br /> ● Implémentation de la modal Feedback  <br /> ● Implémentation de la page profil (affichage des informations de l’utilisateur avec la possibilité de les modifier, possibilité de créer des alertes par emails pour un médicament / une aire thérapeutique / une agence.)  <br /> ● Implémentation de I18n </div>",
+      "description_JP": "【プロジェクト概要】 <br /> コードを Vue.js から React.js に移植する <br /><br /> 【担当・役割】 フロントエンドエンジニア <br />└Vue.js から React.js への移植 <br /><br /> 【実績・取り組み】<br />  <div class='descriptionList'>   ● Redux を実装して変数のストレージを管理する <br />  ● 特徴検索の実装 <br /> <div class='subPoint'> ▪ 薬品から探す <br /> ▪ 日付で検索 <br /> ▪ 治療領域から探す <br /> ▪ 規制当局による検索 (EMA、PDA、NMPA) <br /> ▪ 国別に検索 (フランス、ドイツ、カナダ、日本...) <br /> ▪ 治験から探す </div> ● 結果の表示 <br /> <div class='subPoint'> ▪ Echart を使用して 2 つのグラフを表示し、決定をフィルタリングする機能 (公開済み、継続中、一時停止中) <br /> ▪ データテーブルを表示 (1 ページあたり 50 件の結果を含むページネーション / 列の表示と非表示 / 一部の結果を選択して残りを削除する機能/ 結果をクリックして詳細を表示する機能) </div> ● 機関別の結果を表示 (FDA、EMA、GBA、Hira、PMDA...) <br />  ● 関税の表示（この情報が利用可能な場合）<br /> ● ページ詳細のテンプレートの実装 <div class='subPoint'> ▪ ページを PDF 形式でダウンロードできるようにする(パッケージ HTML2PDF を使用) <br /> ▪ 管理者がページを変更できるようにする <br /> ▪ セクションを非表示/表示する機能 <br /> ▪ 臨床試験へのリンク </div> ● ページの価格設定テンプレートの実装 <br /> ● 各機関向けのテンプレートの実装 (FDA、EMA、PMDA、GBA、Iqwiq...) <br />  ● モーダル「フィードバック」の実装 <br /> ● プロフィールページの実装 <br /> ● I18Nの実装 </div>"
+    },
+    {
+      "positionName_EN": "Fullstack developer",
+      "positionName_FR": "Développeur fullstack",
+      "positionName_JP": "フルスタック開発者",
+      "companyName": "Fiters",
+      "startDate": "01/2021",
+      "endDate": "03/2022",
+      "location": "Paris (France)",
+      "description_EN": "【Project overview】<br /> Fiters has 3 applications (2 mobiles et 1 web). The front is on Vue.js with framework Quasar. They share the same back-end on Node.js/Express with a NoSQL bdd called Firebase.  <br /><br /> 【Responsibilities】 <br /> Add new features and maintain and improve existing code. <br /><br /> 【Achievements】<br /> <div class='descriptionList'> ● Implementing of E2E tests using CYPRESS <br />  ● Redesigned coach app onboarding (use of Google map to define working zone, change of the multiple choice quiz ) <br /> ● Redesigned user app (add question at the onboarding to define the objectives (weight loss, muscle gain), possibility of book a private session (add sport activity, add address, fetch the coaches that can teach that particular activity in that area), add filters to filter workout based on the objective (ex loss weight), on the activity (ex: Yoga), on the price and the calories burned, add of a friend list to be able to do workouts with others people, ability to change personal information <br /> ● Use of the Webhook of Slack to listen to the creation of post in support channel then use of the API of Gitlab to create an issue. <br /> ● Use of the Webhook of Gitlab to listen to the modification of the issue created and then use of the API of Slack to update the user of the support channel <br /> ● Resize images sent by the front with the Jimp package before sending them to Firebase Storage </div>",
+      "description_FR": "【Aperçu du projet】<br /> Fiters a trois applications (2 mobiles et 1 web). Le front de ces applications ont été codés en Vue.js avec le framework Quasar. Ils partagent le même back-end en Node.js/Express avec une base de donnée NoSQL nommée Firebase. <br /><br /> 【Responsabilités / Rôle】<br /> Intervenir en tant que développeur Fullstack afin d'ajoutez de nouvelles fonctionnalités et maintenir et améliorer le code existant. <br /><br /> 【Réalisations】<br /> <div class='descriptionList'> ● Refonte de l’onboarding Coach (mise en place de Google map pour définir les zones d’intervention, changement des questions posées dans le QCM, ajout de la possibilité de pouvoir poser des cours de congés directement depuis l’application) <br /> ● Mise en place de tests End to End avec Cypress dans les 3 applications <br />  ● Refonte de l’application User (ajout d’un parcours lors de l’inscription pour identifier les besoins de l’utilisateur, ajout de la possibilité de réserver une séance de sport chez l’utilisateur (ajout de la discipline (Yoga, pilates, HIT…), ajout de l’adresse avec Google Map, fetch des coaches disponibles dans cette zone géographique et qui peuvent enseigner cette discipline), implémentation des filtres dans la page d’accueil pour filtrer les séances par objectif (ex: se relaxer), par discipline (ex: yoga), par prix et par calories dépensées, ajout d’une liste d’amis pour pouvoir voir les séances en visio auxquelles ses amis sont inscrits et pour pouvoir s’inscrire également, possibilité de changer le poids et la taille pour mettre à jour l’IMC) <br />  ● Utilisation du Webhook de Slack pour écouter sur la création d’un post dans le canal support puis utilisation de l’Api de Gitlab pour créer une issue <br /> ● Utilisation du Webhook de Gitlab pour écouter sur les changements faites à l’issue créée puis utilisation de l’API Slack pour poster sur le canal support <br /> ● Changement de la modal pour créer une séance depuis l’application Manager <br /> ● Redimension des images envoyés par le front avec le package Jimp avant de les envoyer dans Firebase Storage </div>",
+      "description_JP": "【プロジェクト概要】<br />  3つのアプリケーション (2つのモバイルと1つのWeb)についてフロントエンドにはQuasarを使用してVue.jsでコーディング、バックエンドにはNode.jsと Firebaseをデータベースとして使用します。 <br /><br /> 【担当・役割】<br />  新しい機能を追加し、既存のコードを維持および改善します。<br /><br /> 【実績・取り組み】<br /> <div class='descriptionList'>  ● CYPRESSを使用した機能テストの実装 <br /> ● コーチアプリのオンボーディングの再設計（ワーキングゾーンのGoogleマップの追加、ドキュメントの追加、選択式クイズで出題される問題の変更） <br /> ● ユーザーアプリの再設計 (オンボーディング中に質問を追加し、 ユーザーの目標 (減量、筋肉の増加)) <br /> ● ユーザーが直接スポーツセッションを予約する機能（住所、内容、距離から派遣できるコーチを選ぶ）<br /> ● 目標 (減量、筋肉の増加)、内容 (ヨガ、HIT...)、価格、消費カロリーによってセッションをフィルター処理するためのフィルター機能の実装。<br />  ● ユーザーがパスワードなどの情報を変更したり、体重や身長を変更して体格指数を更新したりできるようにする機能 <br /> ● SlackとGitlabのWebhookとAPIの使用 </div>"
+    },
+    {
+      "positionName_EN": "Developer of web apps and functionalities",
+      "positionName_FR": "Développeur d'applications web et de fonctionnalités",
+      "positionName_JP": "フルスタック開発者",
+      "companyName": "Personal projects",
+      "startDate": "01/2021",
+      "endDate": "",
+      "location": "Paris (France)",
+      "description_EN": "【Project Overview】<br /> Creation of various projects in the Javascript ecosystem in order to improve and develop automatisms. <br /><br /> 【Responsibilities / Role】<br />  To develop projects from scratch and to deploy them on Github and/or Heroku. <br /><br /> 【Achievements】<br /> <div class='descriptionList'> • Creation of my Portfolio (https://asif-portfolio.herokuapp.com/), an app to learn Japanese (https://asif-nihongo-app.herokuapp.com/), several web games (https://github.com/Asif-Dev-Fr/React-Games-Lab), a Movie Database App (https://asif-dev-fr.github.io/Movie-React-App/), a US City Map (https://asif-react-map.herokuapp.com/), a Picture App (https://asif-dev-fr.github.io/Picture-React-App/) and a To Do List (https://asif-dev-fr.github.io/React-To-Do-List/) on React. <br /> • Creation of a Exercise tracker (https://github.com/Asif-Dev-Fr/MERN-Stack-Exercice-Tracker) and a E-Commerce (In progress : https://github.com/Asif-Dev-Fr/MERN-Stack-E-Commerce) with MERN Stack . <br /><br /> • Creation of a Music App (https://github.com/Asif-Dev-Fr/Music-NodeJS-App) using Node.js/Express. </div>",
+      "description_FR": "【Aperçu du projet】<br /> Création de divers projets dans l'écosystème Javascript afin de progresser et de développer des automatismes. <br /><br /> 【Responsabilités / Rôle】<br /> Développer des projets from scratch et les déployer sur Github et/ou Heroku. <br /><br /> 【Réalisations】<br /> <div class='descriptionList'>  • Création de mon Portfolio (https://asif-portfolio.herokuapp.com/), d'une application pour apprendre le japonais (https://asif-nihongo-app.herokuapp.com/), de plusieurs mini-jeu (https://github.com/Asif-Dev-Fr/React-Games-Lab), d'une Movie Database App(https://asif-dev-fr.github.io/Movie-React-App/), d'un US City Map (https://asif-react-map.herokuapp.com/), d'une Picture App (https://asif-dev-fr.github.io/Picture-React-App/) et d'une To Do List (https://asif-dev-fr.github.io/React-To-Do-List/) sous React. <br /> • Création d'un Exercise tracker (https://github.com/Asif-Dev-Fr/MERN-Stack-Exercice-Tracker) et d'un E-Commerce (https://github.com/Asif-Dev-Fr/MERN-Stack-E-Commerce) avec MERN Stack. <br /> • Création d'une music App (https://github.com/Asif-Dev-Fr/Music-NodeJS-App) sous Node.js/Express. </div>",
+      "description_JP": "【プロジェクト概要】<br /> ・React：<br /> 映画アップ(https://asif-dev-fr.github.io/Movie-React-App/)、US一地図(https://asif-react-map.herokuapp.com/)、写真アップ(https://asif-dev-fr.github.io/Picture-React-App/)と日本語を学べるアプリ(https://asif-nihongo-app.herokuapp.com/)。<br /> ・MERN Stack (MongoDB, Express, React, Node.js)： <br /> エクササイズトラッカー(リンク)と 電子商取引(リンク)。<br /> ・Node.js/Express：<br /> 音楽アップ(リンク)。 <br /><br /> 【担当・役割】 <br /> さまざまなリソースを使用してこれらのプロジェクトを作成しました。<br /><br /> 【実績・取り組み】<br />Node.js/Expressで作成したバックオフィスを使用してWebサイトを最初から作成し、情報をデータベースに保存できます 外部APIから情報も取得できます。"
+    },
+    {
+      "positionName_EN": "Web developer (internship)",
+      "positionName_FR": "Développeur web (stage)",
+      "positionName_JP": "PHP/WordPress 開発者 (インターンシップ)",
+      "companyName": "Sismeo",
+      "startDate": "08/2019",
+      "endDate": "12/2019",
+      "location": "Paris (France)",
+      "description_EN": "【Project overview】<br /> Website development in Wordpress using PHP. <br /><br /> 【Responsibilities】 <br /> Contribute as a web developer at the creation of website using Wordpress. <br /><br /> 【Achievements】<br /> <div class='descriptionList'> • Creation of plugins for Wordpress <br /> • Creation of the second part : The transformation of milk using Wordpress and procedural PHP (http://les3pouvoirslaitierstedefient.com/loupe/) <br /> • Optimisation of Sismeo's website coded on procedural PHP (https://www.sismeo.com/). <br /> • Website production for a law firm. <br /> • Creation of the website 'C'est qui le Patron?' <br /> • Improved Pole Emploi website. <br /> • Creating an e-commerce site using the plugin WooCommerce. </div>",
+      "description_FR": "【Aperçu du projet】<br /> Développement de site Web dans Wordpress en utilisant PHP. <br /><br /> 【Responsabilités / Rôle】<br /> Intervenir en tant que développeur web afin de participer à la création de site web avec WordPress. <br /><br /> 【Réalisations】 <br /> <div class='descriptionList'> • Développement de modules Wordpress. <br /> • Création du volet 2 : La transformation du lait en utilisant Wordpress et PHP procédural (http://les3pouvoirslaitierstedefient.com/loupe/). <br /> • Optimisation du site Sismeo fait en PHP Procédural (https://www.sismeo.com/). <br /> • Production de site Web pour un cabinet d'avocats. <br /> • Création du site 'C'est qui le Patron ?' <br /> • Amélioration du site Internet de Pole Emploi. <br /> • Créer un site e-commerce en utilisant le plugin WooCommerce. </div>",
+      "description_JP": "【プロジェクト概要】 <br /> PHPを使用してWordpressでのWebサイト開発 <br /><br />【担当・役割】<br /> WordPressを使ったサイト制作 <br /><br /> 【業務内容】 <br /> <div class='descriptionList'> ● インターンとしてWordPressとPHP使ってPouvoir Laitiersの作成 <br /> ● Sismeoのサイトにさまざまな変更を加える <br /> ● 法律事務所のウェブサイト制作 <br /> ● ウェブサイト「C'est qui le Patron ?」の作成 <br /> ● Pole Emploiのウェブサイトの改善 <br /> ● プラグインwoocommerceを使用したeコマースサイトの作成 </div>"
+    }
+  ],
+  "educationalBackground": [
+    {
+      "title_EN": "Bootcamp Web developer",
+      "title_FR": "Bac+2 Développeur Web",
+      "title_JP": "Doranco IT 専門養成センター",
+      "schoolName": "Doranco",
+      "place": "Bagnolet, France",
+      "startDate": "04/2019",
+      "endDate": "09/2019"
+    },
+    {
+      "title_EN": "Master 1 International Trade and Foreign Langages (English - Japanese)",
+      "title_FR": "Master 1 Langues étrangères et échanges internationaux option Anglais-Japonais",
+      "title_JP": "Cergy Pontioise 大学院 貿易・外国語専攻",
+      "schoolName": "University of Cergy-Pontoise",
+      "place": "Cergy, France",
+      "startDate": "09/2013",
+      "endDate": "06/2015"
+    }
+  ]
+}

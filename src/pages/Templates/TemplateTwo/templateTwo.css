@@ -1,0 +1,76 @@
+.containerTwo {
+  display: flex;
+}
+
+.containerTwo .header {
+  position: absolute;
+  top: 50px;
+  z-index: 100;
+  width: 100%;
+  height: 120px;
+}
+
+.containerTwo .header .headerBox {
+  width: 60%;
+  margin: 0 auto;
+  border: 1px black solid;
+  border-radius: 5px;
+  margin-top: 5px;
+  text-align: center;
+  background-color: #fff;
+}
+
+.containerTwo .left {
+  width: 30%;
+  background-color: #e9e9e9;
+  height: 100vh;
+}
+
+.containerTwo .left .leftBox {
+  padding-top: 200px;
+  padding-left: 30px;
+}
+
+.containerTwo .left .leftBox .generalInfo a {
+  text-decoration: none;
+  color: #000;
+}
+
+.containerTwo .left .leftBox .sameHeight {
+  height: 26px;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
+
+.containerTwo .left .leftBox .sameHeight span {
+  line-height: 26px;
+  margin-left: 5px;
+}
+
+.containerTwo .left .leftBox .educationalBackground,
+.containerTwo .left .leftBox .languages {
+  margin: 30px 0 5px 0;
+}
+
+.containerTwo .left .leftBox .educationalBackground .diplomaBoxTitle,
+.containerTwo .left .leftBox .languages .languagesTitle {
+  font-weight: 600;
+  margin-bottom: 7px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid black;
+  width: 80%;
+}
+
+.containerTwo
+  .left
+  .leftBox
+  .educationalBackground
+  .educationalBackgroundList
+  .place {
+  font-style: italic;
+}
+
+.containerTwo .left .leftBox .educationalBackground .educationalBackgroundList {
+  margin-bottom: 15px;
+}

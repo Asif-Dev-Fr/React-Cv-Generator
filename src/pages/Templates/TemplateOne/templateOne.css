@@ -1,0 +1,163 @@
+/* Header */
+
+.containerOne .header {
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  padding-top: 30px;
+  margin: 0 auto 25px auto;
+}
+
+.containerOne .header .left {
+  color: #250746;
+}
+
+.containerOne .header .left .name {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.containerOne .header .left .jobPosition {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.containerOne .header .right {
+  margin-top: 5px;
+}
+
+.containerOne .header .right a {
+  text-decoration: none;
+}
+
+/* AdditionalInfo */
+.containerOne .additionalInfo {
+  background-color: #250746;
+  height: 60px;
+  width: 100%;
+  color: #fff;
+}
+
+.containerOne .additionalInfo .infoBox {
+  width: 90%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+  padding-top: 15px;
+}
+
+.containerOne .additionalInfo .infoBox {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.containerOne .additionalInfo .infoBox .sameHeight {
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.containerOne .additionalInfo .infoBox .sameHeight span {
+  line-height: 30px;
+  margin-left: 5px;
+}
+
+.containerOne .additionalInfo .infoBox .portfolio a {
+  text-decoration: none;
+  color: #fff;
+}
+
+/* Work experience */
+.containerOne .workExpriences .workExperiencesBox {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.containerOne .workExpriences .workExperiencesBox .workExperienceList {
+  margin: 30px 0;
+  border: 1px solid black;
+  padding: 12px;
+  border-radius: 10px;
+}
+
+.containerOne
+  .workExpriences
+  .workExperiencesBox
+  .workExperienceList
+  .positionName {
+  font-weight: bold;
+}
+
+.containerOne .workExpriences .workExperiencesBox .workExperienceList .place_date {
+  display: flex;
+  justify-content: space-between;
+  font-style: italic;
+}
+
+.containerOne
+  .workExpriences
+  .workExperiencesBox
+  .workExperienceList
+  .description {
+  margin-top: 10px;
+  padding: 0 5px;
+}
+
+.containerOne
+  .workExpriences
+  .workExperiencesBox
+  .workExperienceList
+  .description
+  .descriptionList {
+  padding: 0 10px;
+}
+
+.containerOne
+  .workExpriences
+  .workExperiencesBox
+  .workExperienceList
+  .description
+  .subPoint {
+  padding: 0 15px;
+}
+
+.containerOne .educationalBackground .educationalBackgroundBox h3,
+.containerOne .workExpriences .workExperiencesBox h3 {
+  font-weight: 800;
+
+}
+
+.containerOne .educationalBackground .educationalBackgroundBox {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.containerOne
+  .educationalBackground
+  .educationalBackgroundBox
+  .educationalBackgroundList {
+  margin: 30px 0;
+  border: 1px solid black;
+  padding: 12px;
+  border-radius: 10px;
+}
+
+.containerOne
+.educationalBackground
+.educationalBackgroundBox
+.educationalBackgroundList 
+.placeDate {
+  display: flex;
+  justify-content: space-between;
+}
+
+.containerOne
+.educationalBackground
+.educationalBackgroundBox
+.educationalBackgroundList 
+.placeDate
+.place {
+  font-style: italic;
+}
