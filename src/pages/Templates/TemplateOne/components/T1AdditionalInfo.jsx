@@ -25,7 +25,7 @@ const T1AdditionalInfo = ({ data }) => {
             <FaBook />
             <span> {data.japanese} </span>
           </div>
-          {/* <div className="portfolio sameHeight">
+          <div className="portfolio sameHeight">
             <CgWebsite />
             <span>
               {" "}
@@ -37,7 +37,7 @@ const T1AdditionalInfo = ({ data }) => {
                 Portfolio
               </a>
             </span>
-          </div> */}
+          </div>
         </div>
       </div>
     )

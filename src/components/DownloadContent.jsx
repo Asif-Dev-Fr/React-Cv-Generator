@@ -15,10 +15,10 @@ const DownloadContent = ({ id, userLanguage, changeLanguage }) => {
         title = "Développeur_Fullstack-Kassamali_Asif";
         break;
       case "JP":
-        title = "Developer_Fullstack-Kassamali_Asif";
+        title = "Developer_Fullstack-Kassamali_Asif_JP";
         break;
       default:
-        title = "";
+        title = "Developer_Fullstack-Kassamali_Asif";
         break;
     }
 
